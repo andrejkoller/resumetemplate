@@ -1,17 +1,15 @@
-# Software Engineer Resume Template
+## Short description
 
 This repository contains a LaTeX template for a professional software engineer resume. This template is designed to highlight technical skills, project experience, and achievements in a clean and organized format.
 
-## Overview
-
-### Features
+## ✨ Features
 
 - Clean and modern design.
 - Easy to customize and tailor for different job applications.
 - Sections for technical skills, work experience, projects, and education.
 - Structured layout to emphasize key information.
 
-## How to Use
+## ℹ️ How to Use
 
 1. **Prerequisites:** Install LaTeX distribution (e.g., TeX Live, MiKTeX).
 
