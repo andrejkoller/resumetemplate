@@ -1,4 +1,4 @@
-## Short description
+# resume template
 
 This repository contains a LaTeX template for a professional software engineer resume. This template is designed to highlight technical skills, project experience, and achievements in a clean and organized format.
 
